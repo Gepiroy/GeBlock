@@ -1,0 +1,7 @@
+name: GeBlock
+main: GeBlock.main
+version: 1337
+commands:
+  sendexp:
+  spawn:
+  menu:
